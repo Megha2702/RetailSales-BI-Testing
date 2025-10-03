@@ -25,5 +25,10 @@ This project simulates QA processes in a retail BI environment, including:
 
 ---
 
+## Python Automation Testing
+
+A Python script (`run_sql_tests.py`) is provided to automate the execution of these test cases. It connects to the SQL Server database and runs validation queries to ensure data quality.
+
+
 ## 🗃️ Folder Structure
 
