@@ -18,7 +18,7 @@ This project simulates QA processes in a retail BI environment, including:
 
 ## 🛠️ Technologies Used
 
-- SQL Server 2019
+- SQL Server 2024
 - Power BI Desktop
 - Git & GitHub
 - Excel (for test case and defect logs)
